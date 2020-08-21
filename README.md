@@ -1,1 +1,1 @@
-# SophiaYarmolenko-Algorithms-Part-1-Princeton-University
+# Algorithms-Part-1-Princeton-University
